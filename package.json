@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Basic Websockets server using Node.js, Express.js and ws; a Node.js WebSocket library",
   "main": "index.js",
-  "author": "Kevin Chisholm",
+  "author": "Dimitri Steiner",
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.2",
